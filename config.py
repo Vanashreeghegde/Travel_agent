@@ -4,8 +4,8 @@ from dotenv import load_dotenv
 
 load_dotenv(".env")
 
-groq_Api=os.getenv("GROQ_API")
-Tavily_api=os.getenv("TAVILY_API")
+groq_Api=os.getenv("groq_Api")
+Tavily_api=os.getenv("Tavily_api")
 
 QUESTIONS=[
     "Where do you want to go and when?",
