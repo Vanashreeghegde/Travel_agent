@@ -18,7 +18,6 @@ An intelligent **Agentic AI-powered travel planner** that goes beyond static rec
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/19/ba/55/19ba55bd1e75defd333aa58668a35281.gif" height="250px" style="margin: 8px; border-radius: 10px;" />
-  <img src="https://i.pinimg.com/originals/68/0b/eb/680beb29a683b6624393df56ac23e9bf.gif" height="250px" style="margin: 8px; border-radius: 10px;" />
 </p>
 
 ---
