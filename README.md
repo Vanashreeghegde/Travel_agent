@@ -2,6 +2,12 @@
 
 An intelligent **Agentic AI-powered travel planner** that goes beyond static recommendations — it **collects user preferences, plans itineraries, and generates actionable travel insights**.
 
+![Python](https://img.shields.io/badge/Python-3.14-blue?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-LLaMA3.3-orange?style=flat-square)
+![Tavily](https://img.shields.io/badge/Tavily-Search-purple?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
 ---
 
 ## 🚀 Live Demo
@@ -39,18 +45,19 @@ This is not just a UI app — it's built using **Agentic AI principles**:
 - 📋 Guided multi-step user input  
 - 🧠 Intelligent itinerary generation  
 - 📊 Budget-based recommendations  
-- 🍽️ Smart restaurant suggestions  
+- 🍽️ Restaurant suggestions  
 - 🏥 Emergency + safety insights  
 - 📥 Downloadable itinerary  
 
 ---
 
 ## 🏗️ Tech Stack
-
-- **Frontend**: Streamlit  
-- **Backend**: Python  
-- **AI**: Agent-based architecture  
-- **State**: Streamlit Session State  
+- **Frontend**: Streamlit
+- **Backend**: Python
+- **LLM**: Groq (LLaMA 3.3 70B)
+- **Search Tool**: Tavily API
+- **Agent Framework**: LangChain
+- **State**: Streamlit Session State 
 
 ---
 
